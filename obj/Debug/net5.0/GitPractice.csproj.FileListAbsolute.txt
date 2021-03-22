@@ -1,0 +1,16 @@
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\GitPractice.exe
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\GitPractice.deps.json
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\GitPractice.runtimeconfig.json
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\GitPractice.runtimeconfig.dev.json
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\GitPractice.dll
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\ref\GitPractice.dll
+C:\Users\anguyen\Projects\GitPractice\bin\Debug\net5.0\GitPractice.pdb
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.csprojAssemblyReference.cache
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.AssemblyInfoInputs.cache
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.AssemblyInfo.cs
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.dll
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\ref\GitPractice.dll
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.pdb
+C:\Users\anguyen\Projects\GitPractice\obj\Debug\net5.0\GitPractice.genruntimeconfig.cache
